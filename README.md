@@ -1,3 +1,6 @@
+This Project is inspired by Sorting Algorithms and hosts features like Quick Sort, Merge Sort, Bubble Sort and Heap Sort.
+Enjoy the App through this link [Sorting Visualizer](https://inspiring-colden-72999b.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
